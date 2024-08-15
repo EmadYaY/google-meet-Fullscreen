@@ -7,7 +7,7 @@ document.getElementsByClassName("p2hjYe TPpRNe")[0].requestFullscreen()
 
 ```
 
-# ------------------------------------------------------------------
+# -----------------------------------------------------------
 
 > The Second Code:
 ```javascript
@@ -16,7 +16,7 @@ javascript:!function(){const e=`button-${window.__meetsRandomNumber=window.__mee
 
 ```
 
-# ------------------------------------------------------------------
+# -----------------------------------------------------------
 
 >## How To Use:
 1. Open the "Inspect" Feature Panel of Your Browser.
@@ -26,3 +26,6 @@ javascript:!function(){const e=`button-${window.__meetsRandomNumber=window.__mee
 
 ![Image1](1.png "Hand Tracker Project")
    
+# -----------------------------------------------------------
+
+[![](https://visitcount.itsvg.in/api?id=View&label=Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
